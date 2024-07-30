@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olatojide
+- 👋 Hi, I’m Olajide
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning PL 300 PBI Associate
 - 💞️ I’m looking to collaborate on Power BI and Tableau
